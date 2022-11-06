@@ -18,5 +18,7 @@ O(n)
 n=6 olan bu durumda toplam x=3 adımda sıralama işlemi bitmiştir ki bunu "n=x-3" şeklinde ifade edebiliriz. buradaki -3 ifadesi büyük arrayler içinde anlamsız kalacağından Big O Gösterimimiz **"O(n)"** olacaktır.
 
 ***Best Case:*** Algoritmanın çalışabileceği en hızlı senaryodur.
+
 ***Worst Case:*** Algoritmanın çalışabilmesi için en yavaş senaryodur.
+
 ***Average Case:*** Algoritmanın pratikte karşılaşması en olası senaryodur.
